@@ -1,0 +1,7 @@
+openpyxl
+selenium
+wmi
+pyDes
+numpy
+xlwings
+pyinstaller
